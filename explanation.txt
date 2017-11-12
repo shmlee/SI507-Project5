@@ -1,1 +1,5 @@
-Put your Project 5 brief explanation, as directed, here.
+I am accessing the Tumblr search API and gathering:
+- Limited to 5 followers and I am going to search for...
+- For each user, I will be accessing to follower's (whom I follow) name, title, url, and tags
+- I will write 2 csv files, one for follower's name, title, and url. Other csv file will cache that include type of the blog, blog's name and also comprehesive tags that has "chocolate"
+
